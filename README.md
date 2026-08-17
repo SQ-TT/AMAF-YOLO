@@ -1,6 +1,6 @@
 # AMAF-YOLO
 
-面向小目标检测的改进 YOLO 模型。项目在 Ultralytics YOLOv8 / YOLO11 的基础上，引入动态跨区域注意力与多尺度特征融合，针对 VisDrone2019 等航拍、密集小目标场景优化检测精度。
+面向小目标检测的改进 YOLO 模型。项目在 Ultralytics YOLOv12的基础上，引入动态跨区域注意力与多尺度特征融合，针对 VisDrone2019 等航拍、密集小目标场景优化检测精度。
 
 > 论文：**AMAF-YOLO: dynamic cross-region attention and multi-scale fusion for small object detection**  
 > 作者：Qiang Sun, Jinhua Zhang, Shurong Zeng, Jun Hu, Kangmei Li  
